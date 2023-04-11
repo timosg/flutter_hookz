@@ -1,6 +1,6 @@
 name: flutter_hookz
 description: Utility hooks for Flutter, based on flutter_hooks
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/timosg/flutter_hookz/tree/main
 issue_tracker: https://github.com/timosg/flutter_hookz/issues
 homepage: https://github.com/timosg/flutter_hookz

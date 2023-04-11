@@ -1,3 +1,7 @@
+## 0.0.2
+
+- Added useOnce
+
 ## 0.0.1
 
 - Added useDidUpdate
