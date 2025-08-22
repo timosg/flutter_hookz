@@ -1,3 +1,6 @@
+## 0.1.0
+- Upgrade Dependencies
+
 ## 0.0.2
 
 - Added useOnce
